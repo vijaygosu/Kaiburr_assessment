@@ -1,6 +1,6 @@
 #  Kaiburr Assessment 2025 – Task 5: Data Science Example
 
-**Candidate:** Vijay GOsu
+**Candidate:** Vijay Gosu
 **Task:** Perform Text Classification on Consumer Complaint Dataset
 
 ---
@@ -240,17 +240,17 @@ Task5/
 
 ###  Script Execution
 
-![Execution Screenshot](image.png)
+![Execution Screenshot](Scrrenshots\image.png)
 
 ###  Model Comparison
 
-![Naive Bayes Results](image-1.png)
-![Logistic Regression Results](image-2.png)
-![Linear SVM Results](image-3.png)
+![Naive Bayes Results](Scrrenshots\image-1.png)
+![Logistic Regression Results](Scrrenshots\image-2.png)
+![Linear SVM Results](Scrrenshots\image-3.png)
 
 ###  Final Prediction
 
-![Prediction Output](image-4.png)
+![Prediction Output](Scrrenshots\image-4.png)
 
 ---
 
