@@ -240,17 +240,17 @@ Task5/
 
 ###  Script Execution
 
-![Execution Screenshot](Screenshots\image.png)
+![Execution Screenshot](Screenshots/image.png)
 
 ###  Model Comparison
 
-![Naive Bayes Results](Screenshots\image-1.png)
-![Logistic Regression Results](Screenshots\image-2.png)
-![Linear SVM Results](Screenshots\image-3.png)
+![Naive Bayes Results](Screenshots/image-1.png)
+![Logistic Regression Results](Screenshots/image-2.png)
+![Linear SVM Results](Screenshots/image-3.png)
 
 ###  Final Prediction
 
-![Prediction Output](Screenshots\image-4.png)
+![Prediction Output](Screenshots/image-4.png)
 
 ---
 
