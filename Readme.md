@@ -1,6 +1,6 @@
 #  Kaiburr Assessment 2025 – Task 5: Data Science Example
 
-**Candidate:** Vijay GOsu
+**Candidate:** Vijay Gosu
 **Task:** Perform Text Classification on Consumer Complaint Dataset
 
 ---
